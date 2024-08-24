@@ -152,6 +152,7 @@ h2 {
 }
 
 .menu-item {
+  flex: 0 0 29%;
   background-color: var(--bg-card);
   color: white;
   padding: 10px;
