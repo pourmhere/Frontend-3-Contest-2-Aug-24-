@@ -16,8 +16,15 @@ You need to handle 4 promises back to back and run the last thankyou function on
 So inshort you need to handle 4 promises back to back and run the last thankyou fnc one after the other. use either promise chaining or async await or promise methods to do the following.
 You are expected to replicate the same UI for the project. Remember there are 2 screens that are to be built.
 Relevant Links
+
+
+
+_____________________________________________
 Figma Design- https://www.figma.com/file/nUaIMT5VuhX92Ijv9RnqBy/Food-Menu-F3?type=design&node-id=0%3A1&mode=design&t=ONTdcNWSpSY8jOHz-1
+________________________
 JSON- https://raw.githubusercontent.com/saksham-accio/f2_contest_3/main/food.json
+
+________________________________________________
 
 Marking Scheme (100 Marks)
 getMenu() function: (20 marks)
