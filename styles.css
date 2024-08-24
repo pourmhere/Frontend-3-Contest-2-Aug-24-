@@ -173,6 +173,7 @@ h2 {
 .menu-item h3 {
   font-size: 1.2em;
   margin: 0;
+  text-align: start;
 }
 
 .menu-item p {
