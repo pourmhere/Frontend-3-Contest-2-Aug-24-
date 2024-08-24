@@ -82,15 +82,20 @@ header {
   }
 }
 .magsearch {
+  width: max-content;
+  width: 80%;
+
   background-color: #2b2b2b;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 2px;
   border-radius: 6px;
+  margin: 20px;
 }
 header input {
-  width: 95vh;
+  width: 100%;
+
   padding: 10px;
   border: none;
   border-radius: 5px;
