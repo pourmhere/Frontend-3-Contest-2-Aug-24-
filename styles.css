@@ -24,7 +24,7 @@ body {
   /* width: 20%; */
   /* margin: 0 auto; */
   /* padding: 20px; */
-  background-color: red;
+  /* background-color: red; */
   display: flex;
   /* height: 100vh; */
 }
@@ -173,7 +173,7 @@ h2 {
   height: auto;
   border-radius: 5px;
   /* margin-bottom: 10px; */
-  background-color: red;
+  /* background-color: red; */
 }
 
 .menu-item h3 {
